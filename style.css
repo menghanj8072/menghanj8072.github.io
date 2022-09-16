@@ -40,7 +40,7 @@ a {
 }
 
 .bg-2 {
-    background-color: #2e72a1; /* Blue */
+    background-color: #6f9ad6; /* Blue */
     color: #ffffff;
 }
 
@@ -54,7 +54,7 @@ a {
 }
 
 .bg-3 {
-    background-color: #000000; /* Black */
+    background-color: #2D5E86; /* Black */
     color: #ffffff;
 }
 
@@ -80,4 +80,8 @@ a {
 
 .navbar-nav li a:hover {
     color: #2e72a1 !important;
+}
+
+.AM {
+    text-font: center;
 }
